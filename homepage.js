@@ -1,1 +1,1 @@
-"Welcome to  zanta stor"
+"Welcome to  zanta store"
